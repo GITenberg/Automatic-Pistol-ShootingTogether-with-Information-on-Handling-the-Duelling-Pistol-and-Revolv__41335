@@ -1,0 +1,30 @@
+_repo: Automatic-Pistol-ShootingTogether-with-Information-on-Handling-the-Duelling-Pistol-and-Revolv__41335
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Winans, Walter
+    birthdate: 1852
+    deathdate: 1920
+    gutenberg_agent_id: '41119'
+    url: http://www.gutenberg.org/2009/agents/41119
+description: ''
+gutenberg_issued: '2012-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41335'
+  lccn: '15005318'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Pistols'
+- !lcsh 'Shooting'
+title: 'Automatic Pistol Shooting
+
+  Together with Information on Handling the Duelling Pistol and Revolver'
+url: http://www.gutenberg.org/ebooks/41335
